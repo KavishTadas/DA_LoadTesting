@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" parallel="tests" name="TC_000(failed)">
+    <parameter name="Author" value="Kavish"/>
+    <classes>
+      <class name="com.kavi.DLT.TestCases.Clone">
+        <methods>
+          <include name="teardown"/>
+          <include name="LoginTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.kavi.DLT.TestCases.Clone -->
+    </classes>
+  </test> <!-- TC_000(failed) -->
+  <test thread-count="5" parallel="tests" name="TC_001(failed)">
+    <parameter name="Author" value="Kavish"/>
+    <classes>
+      <class name="com.kavi.DLT.TestCases.Clone">
+        <methods>
+          <include name="teardown"/>
+          <include name="LoginTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.kavi.DLT.TestCases.Clone -->
+    </classes>
+  </test> <!-- TC_001(failed) -->
+  <test thread-count="5" parallel="tests" name="TC_002(failed)">
+    <parameter name="Author" value="Kavish"/>
+    <classes>
+      <class name="com.kavi.DLT.TestCases.Clone">
+        <methods>
+          <include name="teardown"/>
+          <include name="LoginTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.kavi.DLT.TestCases.Clone -->
+    </classes>
+  </test> <!-- TC_002(failed) -->
+</suite> <!-- Failed suite [Suite] -->

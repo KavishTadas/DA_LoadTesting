@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [ParallelExecutionSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="tests" name="TC_001(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="Author" value="Kavish"/>
+    <classes>
+      <class name="com.kavi.DLT.TestCases.DA_LoginTest1">
+        <methods>
+          <include name="initializeReport"/>
+          <include name="setUp"/>
+          <include name="After_TC_Failure"/>
+          <include name="LoginTest1"/>
+          <include name="Demolish"/>
+          <include name="initializeExtentReprts"/>
+          <include name="generateExtentReprts"/>
+        </methods>
+      </class> <!-- com.kavi.DLT.TestCases.DA_LoginTest1 -->
+    </classes>
+  </test> <!-- TC_001(failed) -->
+  <test thread-count="3" parallel="tests" name="TC_002(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="Author" value="Kavish"/>
+    <classes>
+      <class name="com.kavi.DLT.TestCases.DA_LoginTest2">
+        <methods>
+          <include name="initializeReport"/>
+          <include name="setUp"/>
+          <include name="After_TC_Failure"/>
+          <include name="LoginTest2"/>
+          <include name="Demolish"/>
+          <include name="initializeExtentReprts"/>
+          <include name="generateExtentReprts"/>
+        </methods>
+      </class> <!-- com.kavi.DLT.TestCases.DA_LoginTest2 -->
+    </classes>
+  </test> <!-- TC_002(failed) -->
+  <test thread-count="3" parallel="tests" name="TC_000(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="Author" value="Kavish"/>
+    <classes>
+      <class name="com.kavi.DLT.TestCases.DA_LoginTest">
+        <methods>
+          <include name="initializeReport"/>
+          <include name="setUp"/>
+          <include name="After_TC_Failure"/>
+          <include name="Demolish"/>
+          <include name="initializeExtentReprts"/>
+          <include name="LoginTest"/>
+          <include name="generateExtentReprts"/>
+        </methods>
+      </class> <!-- com.kavi.DLT.TestCases.DA_LoginTest -->
+    </classes>
+  </test> <!-- TC_000(failed) -->
+</suite> <!-- Failed suite [ParallelExecutionSuite] -->

@@ -1,0 +1,926 @@
+23:30:32.737 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:30:33.431 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:30:44.745 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+23:30:44.751 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:30:44.969 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+04:00:12.120 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+04:00:12.806 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+04:00:25.054 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+04:00:25.059 [main]INFO  BaseClass - Closing the WebDriver after the test
+04:00:29.176 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+04:05:34.000 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+04:05:34.699 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+04:05:45.185 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+04:05:45.189 [main]INFO  BaseClass - Closing the WebDriver after the test
+04:05:49.292 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+04:07:46.542 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+04:07:47.248 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+04:07:58.303 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+04:07:58.308 [main]INFO  BaseClass - Closing the WebDriver after the test
+04:08:02.429 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+21:35:18.676 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+21:35:19.361 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:35:30.958 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:35:30.964 [main]INFO  BaseClass - Closing the WebDriver after the test
+21:35:35.089 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+21:50:51.595 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+21:50:52.284 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:51:09.889 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:51:09.893 [main]INFO  BaseClass - Closing the WebDriver after the test
+21:51:14.009 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+21:53:17.533 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+21:53:18.245 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:53:30.879 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:53:30.884 [main]INFO  BaseClass - Closing the WebDriver after the test
+21:53:34.999 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:19:52.143 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:19:52.831 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:20:03.970 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:20:03.975 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:20:08.088 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:21:23.263 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:21:23.951 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:21:35.225 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:21:35.229 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:21:39.351 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:29:14.048 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:29:14.739 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:29:29.634 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:29:29.638 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:29:33.761 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:31:48.753 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:31:49.386 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:32:05.018 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:32:05.023 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:32:09.134 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:34:01.610 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:34:02.306 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:34:15.354 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:34:15.359 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:34:19.472 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:36:46.589 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:36:47.287 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:37:03.785 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:37:03.790 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:37:07.913 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:47:09.334 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:47:10.025 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:47:26.664 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:47:26.669 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:47:30.794 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:49:40.667 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:49:41.024 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:49:57.778 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:49:57.781 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:50:01.900 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:54:11.051 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:54:11.409 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:54:28.517 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:54:28.521 [main]INFO  BaseClass - Closing the WebDriver after the test
+22:54:32.629 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:59:41.814 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:59:42.169 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:59:59.331 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:59:59.335 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:00:03.454 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:02:10.462 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:02:10.816 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:02:25.992 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:02:25.996 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:02:30.095 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:03:34.861 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:03:35.576 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:03:54.271 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:03:54.277 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:03:58.403 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:05:11.810 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:05:12.168 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:05:29.039 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:05:29.043 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:05:33.155 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:06:16.519 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:06:17.212 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:06:31.341 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:06:31.345 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:06:35.457 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:10:36.427 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:10:36.785 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:10:47.735 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:10:47.739 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:10:51.845 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:12:18.611 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:12:18.963 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:12:29.956 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:12:29.960 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:12:34.075 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:13:12.234 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:13:12.922 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:13:24.743 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:13:24.748 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:13:28.854 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:16:50.312 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:16:50.673 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:17:03.201 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:17:03.205 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:17:07.310 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:19:15.686 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:19:16.041 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:19:27.373 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:19:27.378 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:19:31.492 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:20:02.141 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:20:02.503 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:20:16.501 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:20:16.505 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:20:20.602 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:21:12.117 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:21:12.476 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:21:26.669 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:21:26.673 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:21:30.791 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:22:28.263 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:22:28.621 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:22:50.649 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:22:50.653 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:22:54.754 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:25:49.938 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:25:50.293 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:26:06.294 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:26:06.297 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:26:10.408 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:28:46.066 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:28:46.752 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:29:04.363 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:29:04.367 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:29:08.476 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:29:29.606 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:29:30.298 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:29:54.062 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:29:54.067 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:29:58.170 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:30:26.611 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:30:27.306 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:30:50.247 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:30:50.252 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:30:54.367 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:31:29.333 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:31:29.684 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:31:51.288 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:31:51.292 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:31:55.404 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:32:25.509 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:32:26.196 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:32:49.143 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:32:49.154 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:32:53.269 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:35:10.124 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:35:20.222 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:35:20.929 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:35:50.527 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:35:50.533 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:35:54.650 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:36:15.614 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:36:16.305 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:36:39.150 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:36:39.155 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:36:43.267 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:38:00.410 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:38:01.095 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:38:22.700 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:38:22.706 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:38:26.825 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:39:45.634 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:39:46.326 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:40:10.281 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:40:10.287 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:40:14.401 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:43:58.978 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:43:59.332 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:44:13.654 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:44:13.657 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:44:17.768 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:45:16.796 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:45:17.491 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:45:42.960 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:45:42.965 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:45:47.074 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:47:57.140 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:47:57.495 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:48:19.155 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:48:19.158 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:48:23.253 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+23:50:32.968 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+23:50:33.324 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+23:50:43.111 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+23:50:43.114 [main]INFO  BaseClass - Closing the WebDriver after the test
+23:50:47.219 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:02:56.607 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:02:56.958 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:03:12.090 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:03:12.093 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:03:16.201 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:44:10.734 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:44:11.429 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:44:23.125 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:44:23.130 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:44:27.238 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:45:34.585 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:45:35.277 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:45:50.388 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:45:50.392 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:45:54.495 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:46:54.309 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:46:54.992 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:47:06.505 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:47:06.510 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:47:10.606 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:48:04.515 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:48:05.215 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:48:16.027 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:48:16.032 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:48:20.156 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:54:21.253 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:54:21.955 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:54:37.582 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:54:37.587 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:54:41.688 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:58:09.340 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:58:10.052 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:58:20.624 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:58:20.629 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:58:24.740 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:59:15.735 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:59:16.424 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:59:26.668 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:59:26.674 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:59:30.796 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:04:59.153 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:04:59.841 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:05:10.334 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:05:10.339 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:05:14.465 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:09:08.700 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:09:09.402 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:09:20.973 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:09:20.977 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:09:25.092 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:10:50.438 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:10:51.131 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:11:03.232 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:11:03.237 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:11:07.371 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:12:52.837 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:12:53.524 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:13:05.224 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:13:05.229 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:13:09.349 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:18:07.949 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:18:08.639 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:18:18.947 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:18:18.952 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:18:23.069 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:23:13.046 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:23:13.401 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:23:22.673 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:23:22.676 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:23:26.778 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:27:43.338 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:27:43.699 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:27:55.443 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:27:55.446 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:27:59.546 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:35:00.166 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:35:00.870 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:35:12.893 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:35:12.898 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:35:16.994 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:37:01.822 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:37:02.177 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:37:13.049 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:37:13.053 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:37:17.157 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:37:46.409 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:37:47.104 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:38:05.641 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:38:05.646 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:38:09.769 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:46:28.333 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:46:28.685 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:46:39.980 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:46:39.983 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:46:44.091 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:50:01.897 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:50:02.251 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:50:13.720 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:50:13.723 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:50:17.829 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:51:47.651 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:51:48.348 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:52:00.446 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:52:00.451 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:52:04.561 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:53:37.276 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:53:37.973 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:53:50.727 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:53:50.731 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:53:54.839 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:54:42.089 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:54:42.443 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:54:53.793 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:54:53.796 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:54:57.898 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:55:36.315 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:55:36.676 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:55:54.773 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:55:54.778 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:55:58.883 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:59:06.024 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:59:06.382 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:59:26.805 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:59:26.809 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:59:30.900 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+02:03:23.900 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+02:03:24.255 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+02:03:44.659 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:03:44.662 [main]INFO  BaseClass - Closing the WebDriver after the test
+02:03:48.767 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+02:04:18.818 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+02:04:19.173 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+02:04:35.777 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:04:35.781 [main]INFO  BaseClass - Closing the WebDriver after the test
+02:04:39.876 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+02:05:03.528 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+02:05:03.883 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+02:05:20.837 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:05:20.840 [main]INFO  BaseClass - Closing the WebDriver after the test
+02:05:24.952 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+02:54:30.960 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+02:54:31.322 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+02:54:46.075 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:54:46.078 [main]INFO  BaseClass - Closing the WebDriver after the test
+02:54:50.186 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+02:55:25.067 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+02:55:25.762 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+02:55:37.463 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:55:37.467 [main]INFO  BaseClass - Closing the WebDriver after the test
+02:55:41.590 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+03:56:24.275 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+03:56:24.630 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+03:56:37.597 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:56:37.601 [main]INFO  BaseClass - Closing the WebDriver after the test
+03:56:41.703 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+03:57:36.093 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+03:57:36.790 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+03:57:50.225 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:57:50.230 [main]INFO  BaseClass - Closing the WebDriver after the test
+03:57:54.344 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+03:58:43.003 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+03:58:43.359 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+03:58:57.367 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:58:57.370 [main]INFO  BaseClass - Closing the WebDriver after the test
+03:59:01.471 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:37:55.874 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:37:56.241 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:38:06.515 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:38:06.521 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:38:10.618 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:39:46.798 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:39:47.505 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:39:57.795 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:39:57.800 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:40:01.906 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:41:03.045 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:41:03.404 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:41:14.245 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:41:14.248 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:41:18.349 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:43:10.587 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:43:10.954 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:43:21.816 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:43:21.820 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:43:25.913 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:46:40.631 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:46:40.990 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:46:51.354 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:46:51.357 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:46:55.460 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:47:22.042 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:47:22.406 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:47:32.852 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:47:32.855 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:47:36.963 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:48:21.292 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:48:21.655 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:48:32.106 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:48:32.110 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:48:36.212 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:50:54.540 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:50:54.897 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:51:10.183 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:51:10.187 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:51:14.280 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:52:52.461 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:52:52.827 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:53:06.258 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:53:06.262 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:53:10.363 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:54:07.728 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:54:08.421 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:54:22.997 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:54:23.002 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:54:27.116 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:56:02.413 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:56:03.111 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:56:22.320 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:56:22.325 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:56:26.446 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:58:05.773 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:58:06.467 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:58:25.422 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:58:25.427 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:58:29.522 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:58:55.730 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:58:56.445 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:59:09.977 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:59:09.982 [main]INFO  BaseClass - Closing the WebDriver after the test
+00:59:14.083 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:01:22.686 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:01:23.045 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:01:36.152 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:01:36.155 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:01:40.258 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:02:37.232 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:02:37.591 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:02:50.494 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:02:50.497 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:02:54.600 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:03:09.840 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:03:10.201 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:03:23.117 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:03:23.121 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:03:27.227 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:16:45.017 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:16:45.722 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:17:05.930 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:17:05.935 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:17:10.051 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:18:37.862 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:18:38.576 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:19:03.546 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:19:03.551 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:19:07.668 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:25:00.959 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:25:01.318 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:25:24.328 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:25:24.332 [main]INFO  BaseClass - Closing the WebDriver after the test
+01:25:28.428 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:35:06.448 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:35:06.822 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:35:30.413 [TestNG-tests-1]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:35:30.417 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+01:35:34.506 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:37:35.157 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:37:35.524 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:37:58.531 [TestNG-tests-1]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:37:58.534 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+01:38:02.634 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:52:13.908 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:52:14.281 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:52:37.559 [TestNG-tests-1]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:52:43.287 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:52:48.966 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:52:54.630 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:52:54.635 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+01:52:58.766 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:58:49.922 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:58:50.293 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:59:14.677 [TestNG-tests-1]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:59:20.389 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:59:26.060 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:59:31.724 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:59:31.729 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+01:59:35.870 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:59:49.647 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:59:50.007 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+02:00:13.280 [main]INFO  BaseClass - Test Case Method: LoginTest is Passed
+02:00:19.023 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:00:24.713 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:00:30.383 [main]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:00:30.386 [main]INFO  BaseClass - Closing the WebDriver after the test
+02:00:34.513 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:48:53.790 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:48:54.160 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:49:21.635 [TestNG-tests-1]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:49:23.066 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:49:24.413 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:49:25.800 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:49:25.804 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+00:49:29.936 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+00:54:07.954 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:54:08.332 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:54:08.332 [TestNG-tests-2]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:54:18.083 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:54:23.893 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:54:29.636 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:54:35.343 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:54:35.356 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+00:54:39.532 [TestNG-tests-2]INFO  BaseClass - Closing the WebDriver after the test
+00:56:25.285 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+00:56:25.654 [TestNG-tests-2]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:56:25.654 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+00:56:35.481 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:56:41.266 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:56:47.067 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:56:52.133 [TestNG-tests-1]INFO  BaseClass - Test Case Method: LoginTest is Passed
+00:56:53.517 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:56:54.845 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+00:56:54.849 [TestNG-tests-2]INFO  BaseClass - Closing the WebDriver after the test
+00:57:00.070 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+00:57:00.109 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:24:09.384 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:24:09.754 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:24:34.075 [TestNG-tests-1]INFO  BaseClass - Test Case Method: LoginTest is Passed
+01:24:35.496 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:24:36.848 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:24:38.238 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:24:38.242 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+01:24:42.369 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+01:37:54.973 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:37:55.341 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:38:09.409 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:38:15.136 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:38:20.832 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:38:25.990 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+01:38:52.438 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:38:52.810 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:39:07.370 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:39:13.078 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:39:24.272 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:39:29.955 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:39:29.958 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+01:40:38.436 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+01:40:38.811 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+01:40:53.355 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:40:59.093 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:41:04.870 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:41:10.536 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+01:41:10.543 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+01:41:14.679 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+02:57:55.641 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+02:57:56.021 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+02:58:07.723 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:08.008 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:08.414 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:13.593 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:13.902 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:14.217 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:19.380 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:19.747 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:20.031 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:20.400 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:25.129 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:25.465 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:25.751 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:26.091 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:30.813 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:31.152 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:31.496 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:31.805 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:36.401 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:36.748 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:37.090 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:37.432 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:41.998 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:42.346 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:42.844 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:43.183 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:47.406 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:47.778 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:48.248 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:48.587 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:52.807 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:53.151 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:53.651 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:58.244 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:58.562 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:58:59.435 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:59:03.620 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:59:03.938 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:59:08.998 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:59:09.315 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+02:59:09.320 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+02:59:13.586 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+03:21:46.989 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+03:21:47.637 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+03:21:58.303 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:21:58.652 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:21:59.019 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:03.695 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:04.208 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:04.530 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:09.112 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:09.614 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:09.986 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:10.352 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:14.538 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:15.407 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:15.745 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:16.062 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:20.115 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:20.984 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:21.326 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:21.664 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:25.700 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:26.562 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:26.906 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:27.246 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:31.276 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:32.140 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:32.479 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:32.818 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:36.861 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:37.715 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:38.055 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:38.394 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:42.422 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:43.299 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:43.796 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:47.867 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:48.745 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:49.264 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:53.283 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:54.141 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:58.684 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:59.519 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:22:59.525 [main]INFO  BaseClass - Closing the WebDriver after the test
+03:23:03.772 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+03:27:48.181 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+03:27:48.540 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+03:27:59.172 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:27:59.459 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:27:59.760 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:28:04.967 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:28:05.251 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:28:05.556 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:28:10.636 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:28:10.972 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:28:11.287 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:28:11.684 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:28:16.965 [main]INFO  BaseClass - Closing the WebDriver after the test
+03:54:51.124 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+03:54:51.480 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+03:55:02.700 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:02.978 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:03.349 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:08.553 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:08.893 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:09.218 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:14.292 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:14.618 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:14.955 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:15.327 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:19.891 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:20.253 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:20.755 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:21.068 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:25.608 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:25.956 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:26.480 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:26.788 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:31.342 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:31.685 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:32.179 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:32.527 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:37.078 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:37.411 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:37.758 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:38.100 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:42.663 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:43.000 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:43.338 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:43.685 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:48.388 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:48.737 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:49.035 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:54.091 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:54.425 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:54.731 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:55:59.788 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:56:00.133 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:56:05.206 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:56:05.509 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+03:56:05.516 [main]INFO  BaseClass - Closing the WebDriver after the test
+03:56:09.745 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+20:12:32.034 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+20:12:32.384 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+20:12:48.018 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:12:48.304 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:12:48.616 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:12:53.812 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:12:54.118 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:12:54.427 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:12:59.544 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:12:59.875 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:13:00.229 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:13:00.624 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:13:00.629 [main]INFO  BaseClass - Closing the WebDriver after the test
+20:13:04.787 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+20:20:06.031 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+20:20:06.386 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+20:20:55.932 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+20:20:56.291 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+20:21:05.540 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:05.908 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:06.296 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:10.945 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:11.278 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:12.148 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:16.763 [TestNG-methods-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:17.111 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:17.399 [TestNG-methods-1]INFO  BaseClass - Test Case Method: LoginTest is Passed
+20:21:18.971 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:21:18.977 [main]INFO  BaseClass - Closing the WebDriver after the test
+20:21:19.179 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+20:26:25.737 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+20:26:26.104 [main]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+20:26:37.509 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:37.801 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:38.109 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:43.344 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:43.652 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:43.991 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:49.136 [TestNG-methods-4]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:49.506 [TestNG-methods-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:49.846 [TestNG-methods-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+20:26:50.026 [TestNG-methods-3]INFO  BaseClass - Test Case Method: LoginTest is Passed
+20:26:50.031 [main]INFO  BaseClass - Closing the WebDriver after the test
+20:26:54.169 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+21:43:43.354 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+21:43:44.063 [TestNG-tests-2]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:43:44.063 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:43:44.063 [TestNG-tests-3]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:44:14.724 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:44:14.725 [TestNG-tests-3]INFO  BaseClass - Closing the WebDriver after the test
+21:44:14.725 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+21:44:30.547 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:44:30.551 [TestNG-tests-2]INFO  BaseClass - Closing the WebDriver after the test
+21:44:34.640 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+21:50:07.931 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+21:50:08.575 [TestNG-tests-2]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:50:08.575 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:50:08.575 [TestNG-tests-3]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:50:30.343 [TestNG-tests-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:50:30.348 [TestNG-tests-3]INFO  BaseClass - Closing the WebDriver after the test
+21:50:30.464 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:50:30.466 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+21:50:30.568 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:50:30.569 [TestNG-tests-2]INFO  BaseClass - Closing the WebDriver after the test
+21:50:34.645 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+21:55:32.275 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+21:55:32.685 [TestNG-tests-2]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:55:32.685 [TestNG-tests-3]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:55:32.685 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+21:55:58.852 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:55:58.856 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+21:56:10.540 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:56:10.541 [TestNG-tests-2]INFO  BaseClass - Closing the WebDriver after the test
+21:56:19.522 [TestNG-tests-3]WARN  BaseClass - Warning: Method Failed: LoginTest
+21:56:19.523 [TestNG-tests-3]INFO  BaseClass - Closing the WebDriver after the test
+21:56:23.590 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:02:16.791 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:02:17.171 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:02:17.171 [TestNG-tests-2]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:02:17.171 [TestNG-tests-3]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:02:40.904 [TestNG-tests-3]WARN  BaseClass - Warning: Method Failed: LoginTest2
+22:02:40.908 [TestNG-tests-3]INFO  BaseClass - Closing the WebDriver after the test
+22:02:41.103 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest1
+22:02:41.104 [TestNG-tests-2]INFO  BaseClass - Closing the WebDriver after the test
+22:02:41.409 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:02:41.410 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+22:02:45.476 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
+22:05:23.891 [main]INFO  BaseClass - Initializing Extent Reports with the specified configuration
+22:05:24.607 [TestNG-tests-2]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:05:24.607 [TestNG-tests-1]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:05:24.607 [TestNG-tests-3]INFO  BaseClass - Setting up the WebDriver based on the Chrome browser
+22:05:49.683 [TestNG-tests-3]WARN  BaseClass - Warning: Method Failed: LoginTest2
+22:05:49.688 [TestNG-tests-3]INFO  BaseClass - Closing the WebDriver after the test
+22:05:49.842 [TestNG-tests-2]WARN  BaseClass - Warning: Method Failed: LoginTest1
+22:05:49.843 [TestNG-tests-2]INFO  BaseClass - Closing the WebDriver after the test
+22:05:50.210 [TestNG-tests-1]WARN  BaseClass - Warning: Method Failed: LoginTest
+22:05:50.211 [TestNG-tests-1]INFO  BaseClass - Closing the WebDriver after the test
+22:05:54.286 [main]INFO  BaseClass - Flushing the Extent Reports to generate the report
+------------------------------------------------------------------------------------------------------------------------------------
